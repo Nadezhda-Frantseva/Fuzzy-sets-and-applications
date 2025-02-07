@@ -1,0 +1,1 @@
+Fuzzy set theory, introduced by Lotfi Zadeh in 1965, extends classical set theory by allowing elements to have degrees of membership rather than a strict binary classification (belonging or not belonging). A fuzzy set is characterized by a membership function that assigns each element a value between 0 and 1, representing its degree of membership.
